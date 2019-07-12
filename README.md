@@ -32,6 +32,13 @@ https://github.com/cunjian/face_rec_amsoftmax (AM-Softmax)
 
 https://github.com/cunjian/face_rec_MobileFaceNet (MobileFaceNet+AM)
 
+## Pretrained Models
+
+PCSO Dataset: https://1drv.ms/u/s!AhFf7JiY9UVbgVYMueDKc-CsYamZ?e=EXcAx2
+
+ARL Dataset: https://1drv.ms/u/s!AhFf7JiY9UVbgVf_uucFrxQEfeeZ?e=en1zdy
+
+
 ## Citation
 If you use this code for your research, please cite our papers.
 ```
